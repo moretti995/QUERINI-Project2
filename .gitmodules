@@ -1,3 +1,6 @@
 [submodule "Data-Science"]
 	path = Data-Science
 	url = git@github.com:RobertoColangelo/Data-Science.git
+[submodule "QUERINI-Project1"]
+	path = QUERINI-Project1
+	url = git@github.com:moretti995/QUERINI-Project1
