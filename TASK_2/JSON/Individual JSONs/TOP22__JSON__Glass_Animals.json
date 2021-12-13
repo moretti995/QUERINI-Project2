@@ -1,0 +1,18 @@
+[
+    {
+        "artist": {
+            "id": 69911,
+            "name": "Glass Animals",
+            "nameWithoutThePrefix": "Glass Animals",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 491344,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Your Love (D\u00e9j\u00e0 Vu)",
+        "type": "Song"
+    }
+]

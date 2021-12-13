@@ -1,0 +1,67 @@
+[
+    {
+        "artist": {
+            "id": 28631,
+            "name": "Dustin Lynch",
+            "nameWithoutThePrefix": "Dustin Lynch",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 182101,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Cowboys And Angels",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 28631,
+            "name": "Dustin Lynch",
+            "nameWithoutThePrefix": "Dustin Lynch",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 374851,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hurricane",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 28631,
+            "name": "Dustin Lynch",
+            "nameWithoutThePrefix": "Dustin Lynch",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 374852,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sittin Pretty",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 28631,
+            "name": "Dustin Lynch",
+            "nameWithoutThePrefix": "Dustin Lynch",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 374853,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dancing In The Headlights",
+        "type": "Song"
+    }
+]

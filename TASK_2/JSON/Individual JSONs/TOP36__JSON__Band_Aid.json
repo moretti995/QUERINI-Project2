@@ -1,0 +1,35 @@
+[
+    {
+        "artist": {
+            "id": 13202,
+            "name": "Band Aid",
+            "nameWithoutThePrefix": "Band Aid",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 66416,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Do They Know It's Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26840,
+            "name": "Band Aid 20",
+            "nameWithoutThePrefix": "Band Aid 20",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 169043,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Do They Know Its Christmas",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "artist": {
+            "id": 57555,
+            "name": "Pentatonix",
+            "nameWithoutThePrefix": "Pentatonix",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 438784,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "White Winter Hymnal",
+        "type": "Song"
+    }
+]

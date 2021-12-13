@@ -1,0 +1,18 @@
+[
+    {
+        "artist": {
+            "id": 65047,
+            "name": "Kane Brown",
+            "nameWithoutThePrefix": "Kane Brown",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 469567,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Heaven",
+        "type": "Song"
+    }
+]

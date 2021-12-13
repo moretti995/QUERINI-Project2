@@ -1,0 +1,242 @@
+[
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368337,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Rockin Around The Christmas Tree Bass",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372696,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Just A Little",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372697,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im Learnin About Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372698,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All Alone Am I",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372699,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Whole World Is Falling Down",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372700,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Anybody But Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372701,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dynamite",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372702,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fool 1",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372703,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im Sorry",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372704,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Emotions",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372705,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Rockin Around The Christmas Tree",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 372706,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Losing You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403473,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The End Of The World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 459633,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rocking Around The Christmas Tree - Metal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 47834,
+            "name": "Brenda Lee",
+            "nameWithoutThePrefix": "Brenda Lee",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 476598,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rockin' Around the Christmas Tree",
+        "type": "Song"
+    }
+]

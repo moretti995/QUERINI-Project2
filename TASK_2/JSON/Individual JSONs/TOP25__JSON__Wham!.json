@@ -1,0 +1,202 @@
+[
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 21511,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Last Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 21544,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Careless Whisper",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 59631,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Freedom",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 82680,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Wake Me Up Before You Go-Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 255396,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Heartbeat",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 255398,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Edge Of Heaven",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 255399,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Everything She Wants",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 255400,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im Your Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 255401,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Club Tropicana",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 279420,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Wham Rap",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 279421,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Young Guns",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 37534,
+            "name": "Wham!",
+            "nameWithoutThePrefix": "Wham!",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 497761,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Revised Last Christmas",
+        "type": "Song"
+    }
+]

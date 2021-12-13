@@ -1,0 +1,389 @@
+[
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 25349,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Love Story",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 61675,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Moon River",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166353,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cant Take My Eyes Off You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166354,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Butterfly",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166355,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Solitaire",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166356,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Getting Over You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166357,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Theme From Exodus",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166358,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "On The Street Where You Live",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166359,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Speak Softly Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166360,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "More",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166361,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "A Fool Never Learns",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166362,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Music To Watch Girls By",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166363,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Funny Valentine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166364,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Like Your Kind Of Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166365,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Theme From A Summer Place",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166366,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Happy Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166367,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cant Get Used To Losing You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166368,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Canadian Sunset",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166369,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dear Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166370,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Lonely Street",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166371,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Shadow Of Your Smile",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 166372,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stranger On The Shore",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 189802,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Is Blue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 6344,
+            "name": "Andy Williams",
+            "nameWithoutThePrefix": "Andy Williams",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 369968,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Charade",
+        "type": "Song"
+    }
+]

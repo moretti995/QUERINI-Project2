@@ -1,0 +1,598 @@
+[
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 22592,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lost",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 22593,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Everything",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 23806,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 43363,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Sway",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 43364,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Fever",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 43365,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "The Way You Look Tonight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 43400,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Quando Quando",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 73518,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Haven't Met You Yet",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 73519,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Hollywood",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 88445,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Feeling Good",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219626,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Everything Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219627,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whatever It Takes",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219628,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hold On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219629,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Save The Last Dance For Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219630,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "A Song For You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219631,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Me And Mr Jones",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219632,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Some Kind Of Wonderful",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219633,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Crazy Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219634,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cold December Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219635,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Quando Quando Quando",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219636,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Always On My Mind",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219637,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Heartache Tonight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219638,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Georgia On My Mind",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219639,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dream A Little Dream",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219640,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ive Got The World On A String",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219641,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All I Want For Christmas Is You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219642,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Santa Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219643,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Let It Snow Let It Snow Let It Snow",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 219644,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Put Your Head On My Shoulder",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 346687,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Cry Me A River",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 346688,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "End Of May",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 401550,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Everything (Acoustic Cover By Zaire Barrett)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 404870,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Home(Fingerstyle By J. Bartholomew)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 405496,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Home Fingerstyle",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 425108,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Crazy Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5926,
+            "name": "Michael Buble",
+            "nameWithoutThePrefix": "Michael Buble",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 461318,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Me and Mrs Jones",
+        "type": "Song"
+    }
+]

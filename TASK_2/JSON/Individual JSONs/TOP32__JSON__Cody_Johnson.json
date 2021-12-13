@@ -1,0 +1,82 @@
+[
+    {
+        "artist": {
+            "id": 12625,
+            "name": "Cody Johnson",
+            "nameWithoutThePrefix": "Cody Johnson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81824,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "I Love Titties",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 12625,
+            "name": "Cody Johnson",
+            "nameWithoutThePrefix": "Cody Johnson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81825,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Poopsicles",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 12625,
+            "name": "Cody Johnson",
+            "nameWithoutThePrefix": "Cody Johnson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 175387,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Nobody To Blame",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 12625,
+            "name": "Cody Johnson",
+            "nameWithoutThePrefix": "Cody Johnson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 175388,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Diamond In My Pocket",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 12625,
+            "name": "Cody Johnson",
+            "nameWithoutThePrefix": "Cody Johnson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 374434,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "A Different Day",
+        "type": "Song"
+    }
+]

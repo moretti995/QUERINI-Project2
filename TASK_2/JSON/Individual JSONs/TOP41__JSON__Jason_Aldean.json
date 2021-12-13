@@ -1,0 +1,1049 @@
+[
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201165,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "This I Gotta See",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201166,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Youre The Love I Wanna Be In",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201167,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fly Over States",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201168,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dirt Road Anthem",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201169,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Heartache That Dont Stop Hurting",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201170,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Asphalt Cowboy Live",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201171,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fast",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201172,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Asphalt Cowboy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201173,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Good To Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201174,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont Give Up On Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201175,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "My Kinda Party",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201176,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Grown Woman",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201177,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "See You When I See You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201178,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Big Green Tractor",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201179,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Give Up On Me Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201180,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Keep The Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201181,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Hick Town",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201182,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Heaven",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201183,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Memory Aint What It Used To Be",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201184,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Amarillo Sky",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201185,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Crazy Town",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201186,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Take A Little Ride",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201187,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Just Passin Through",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201188,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Pretty Cowboy Lady",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201189,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "No",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201190,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont You Wanna Stay",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201191,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "She Loved Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201192,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Shes Country",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201193,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Aint Ready To Quit",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201194,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Texas Was You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201195,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im Just A Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201196,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Church Pew Or Barstool",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201197,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Country Boys World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201198,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "On My Highway",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201199,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "The Truth",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201200,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Even If I Wanted Too",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201201,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Back In This Cigarette",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201202,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Why",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201203,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Do You Wish It Was Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201204,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Laugh Until We Cried",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201205,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Tattoos On This Town",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201206,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Laughed Until We Cried",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201207,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Johnny Cash",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201208,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Just Passing Through",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201209,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wide Open",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201210,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Best Of Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201211,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Youre The One I Wanna Be In",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201212,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whos Kissing You Tonight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201213,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Days Like These",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201214,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "If She Could See Me Now",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 201215,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Relentless",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 309010,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "It Aint Easy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 309011,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Lonesome Usa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375649,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Staring At The Sun",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375650,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Night Train",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375651,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Black Tears",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375652,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wheels Rollin",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375653,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "1994",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375654,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Talk",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375655,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Walking Way",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375656,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Do Lonely Well",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375657,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "When She Says Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375658,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Only Way I Know",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31052,
+            "name": "Jason Aldean",
+            "nameWithoutThePrefix": "Jason Aldean",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 375659,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "This Nothin Town",
+        "type": "Song"
+    }
+]

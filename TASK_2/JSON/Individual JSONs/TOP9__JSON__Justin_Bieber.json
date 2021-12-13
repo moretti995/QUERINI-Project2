@@ -1,0 +1,1450 @@
+[
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 71929,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Eeenie Meenie",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 71930,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 86279,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Don't Let Me Go- The Fray",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 86801,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "U Smile",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207071,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Pray",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207072,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Mistletoe",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207073,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Born To Be Somebody",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207074,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Beauty And A Beat",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207075,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Up",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207076,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Favorite Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207077,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "That Should Be Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207078,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Believe",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207079,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Runaway Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207080,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Boyfriend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207081,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Favorite Girl Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207082,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All Around The World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207083,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Die In Your Arms",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207084,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ill Be",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207085,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Next To You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207086,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Be Alright",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207087,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Less Lonley Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207088,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Baby Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207089,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Rich Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207090,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "As Long As You Love Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207091,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Heartache",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207092,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Common Denominator",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207093,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Turn To You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207094,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "One Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207095,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Never Let You Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207096,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Where Are You Now",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207097,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Lonely Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207098,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207099,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Christmas Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207100,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Eenie Meenie",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207101,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Somebody To Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207102,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stuck In The Moment",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207103,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Home This Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207104,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Down To Earth",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207105,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Under The Mistletoe",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207106,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Pick Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207107,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Never Say Never",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207108,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Overboard",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207109,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "One Time Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207110,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207111,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Catching Feelings",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207112,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Me Like You Do",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207113,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Never Let You Go Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207114,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Less Lonely Girl Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207115,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "How To Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207116,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "First Dance",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207117,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One More Lonely Boy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207118,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "U Smile Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207119,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thought Of You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207120,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Back Down To Earth",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207121,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207122,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cant Live Without You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207123,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "The Christmas Song Chestnuts Roasting On An Open Fire",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207124,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Maria",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207125,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Fall",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207126,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Down To Earth Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207127,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fa La La",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207128,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All I Want Is You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207129,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kiss And Tell",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207130,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wont Stop",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207131,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Medley",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207132,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Latin Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207133,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dan Kanter Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207134,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "That Should Be Me Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376004,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cry Me A Heartless Swag On The River One Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376005,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Take You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 379876,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "As Long As You Love Me (Acoustic)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 379888,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Boyfriend (Acoustic)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 383633,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Nothing Like Us Intro",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 402695,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sorry (Fingerstyle)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 402759,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Yourself (cover by James Bartholomew)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403227,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "What Do You Mean?",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403254,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "What Do You Mean (cover by James Bartholomew)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 412926,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Cold Water (James Bartholomew Cover) Fingerstyle",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413939,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Die In Your Arms",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413940,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Down To Earth",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 424540,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "This Will Give You Cancer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 436819,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Despacito",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 438967,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Let Me Love You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 441856,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Yourself (MELODY)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 451251,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Yourself V2",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 451783,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Yourself Simplified",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 453625,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Yourself (fingerstyle guitar)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 493486,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Stay (Fingerstyle)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 14067,
+            "name": "Justin Bieber",
+            "nameWithoutThePrefix": "Justin Bieber",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 496959,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Peaches (Guitar solo)",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "artist": {
+            "id": 13188,
+            "name": "Bobby Helms",
+            "nameWithoutThePrefix": "Bobby Helms",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 66322,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Jingle Bell Rock",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13188,
+            "name": "Bobby Helms",
+            "nameWithoutThePrefix": "Bobby Helms",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368332,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Jingle Bell Rock Bass",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13188,
+            "name": "Bobby Helms",
+            "nameWithoutThePrefix": "Bobby Helms",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 371698,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fraulein",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13188,
+            "name": "Bobby Helms",
+            "nameWithoutThePrefix": "Bobby Helms",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 371699,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Special Angel",
+        "type": "Song"
+    }
+]

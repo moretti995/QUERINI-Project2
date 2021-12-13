@@ -1,0 +1,1802 @@
+[
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 1397,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Since U Been Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 4805,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Miss Independent",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 40420,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Because Of You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 40421,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Behind These Hazel Eyes",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 40422,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Don't Waste Your Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 40423,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Breakaway",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 40424,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "A Moment Like This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 62254,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Cry",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 62255,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "My Life Would Suck Without You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 62256,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Do Not Hook Up",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208527,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Life Will Suck Without You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208528,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "If No One Will Listen",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208529,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stronger",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208530,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Already Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208531,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Judas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208532,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sober",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208533,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Irvine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208534,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All I Know",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208535,
+        "tabTypes": [
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Hear Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208536,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Day We Fell Apart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208537,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Be Still",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208538,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dark Side",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208539,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont Be A Girl About It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208540,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "After The Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208541,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hes My One",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208542,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "If I Cant Have You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208543,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Can I Have A Kiss",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208544,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Addicted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208545,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Close Your Eyes",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208546,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Sun Will Rise",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208547,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Love Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208548,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Since Youve Been Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208549,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Cant Lose",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208550,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Hole",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208551,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Empty Handed",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208552,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont Let Me Stop You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208553,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Just Missed The Train",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208554,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Chivas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208555,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Haunted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208556,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208557,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Ever Give Up On Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208558,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Whyyawannabringmedown",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208559,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "All I Ever Wanted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208560,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Let Me Down",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208561,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Never Again",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208562,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Moment Like This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208563,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Honestly",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208564,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Beautiful Disaster",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208565,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Breakaway Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208566,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Walk Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208567,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ready",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208568,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Get Up A Cowboys Anthem",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208569,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Between The Lines",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208570,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Like A Drug",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208571,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Forgive You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208572,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whoever Did That Wasnt Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208573,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The War Is Over",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208574,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "How I Feel",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208575,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Why",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208576,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Impossible",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208577,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "You Found Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208578,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208579,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Anytime",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208580,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stronger What Doesnt Kill You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208581,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208582,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Empty As I Am",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208583,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Where Is Your Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208584,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Breaking Your Own Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208585,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Tip Of My Tounge",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208586,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Still Wont Know What Its Like",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208587,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Tip Of My Tongue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208588,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Standing In Front Of You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208589,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Why Dont You Try",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208590,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "So Far Apart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208591,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Timeless",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208592,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "So He Says",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208593,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Alone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208594,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Mr Know It All",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208595,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Long Shot",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208596,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hello",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208597,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Song To You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208598,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Day",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208599,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Want You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208600,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Hate Myself For Losing You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208601,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Minute",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208602,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Lost",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208603,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Behind These Hazel Eyes Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208604,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Low",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208605,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Trouble With Love Is",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208606,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Call Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208607,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Maybe",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208608,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Because Of You Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208609,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Einstein",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208610,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Miss Independent Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208611,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "What Doesnt Kill You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208612,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Did You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 208613,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Cant Win",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 311871,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Not Today",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 311872,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Fading",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 311873,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Thankful",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 311874,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Can We Go Back",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376047,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Rush",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376048,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Thought Wrong",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376049,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Catch My Breath",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376050,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "People Like Us",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376051,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Beautiful Disaster Live",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 418650,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Since You've Been Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 418651,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Stronger What Doesn't Kill You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 418652,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Long Shot",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 553,
+            "name": "Kelly Clarkson",
+            "nameWithoutThePrefix": "Kelly Clarkson",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 418653,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "What Doesn't Kill You",
+        "type": "Song"
+    }
+]

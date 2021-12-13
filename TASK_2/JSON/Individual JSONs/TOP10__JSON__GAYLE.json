@@ -1,0 +1,82 @@
+[
+    {
+        "artist": {
+            "id": 29486,
+            "name": "Gayle Crystal",
+            "nameWithoutThePrefix": "Gayle Crystal",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 188045,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wrong Road Again",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 29486,
+            "name": "Gayle Crystal",
+            "nameWithoutThePrefix": "Gayle Crystal",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 188046,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "This Is My Year For Mexico",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 29486,
+            "name": "Gayle Crystal",
+            "nameWithoutThePrefix": "Gayle Crystal",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 188047,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Two Many Lovers",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 29486,
+            "name": "Gayle Crystal",
+            "nameWithoutThePrefix": "Gayle Crystal",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 188048,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont It Make My Brown Eyes Blue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 29486,
+            "name": "Gayle Crystal",
+            "nameWithoutThePrefix": "Gayle Crystal",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 193170,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You And I",
+        "type": "Song"
+    }
+]

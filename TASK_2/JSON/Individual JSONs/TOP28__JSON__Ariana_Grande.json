@@ -1,0 +1,130 @@
+[
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 167360,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Honeymoon Avenue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 167361,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Pink Champagne",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 167362,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Put Your Hearts Up",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 167363,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love The Way You Lie Part 2",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 167364,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Born This Way Vs Express Yourself",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 394202,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Problem",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 26609,
+            "name": "Ariana Grande",
+            "nameWithoutThePrefix": "Ariana Grande",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 435335,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "One Last Time - Arr. Vali Revai",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 65972,
+            "name": "Ariana Grande - Positions",
+            "nameWithoutThePrefix": "Ariana Grande - Positions",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 473792,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tabbed by Guitaraco.com",
+        "type": "Song"
+    }
+]

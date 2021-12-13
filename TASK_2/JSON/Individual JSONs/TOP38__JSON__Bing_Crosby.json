@@ -1,0 +1,211 @@
+[
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 286299,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "White Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 286300,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "White Chrismas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370187,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Have Yourself A Merry Little Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370188,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Its Been A Long Long Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370189,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Three Little Words",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370190,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Mele Kalikimaka",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370191,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Only Forever",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370192,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "True Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370193,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Far Away Places",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370194,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ill Be Home For Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370195,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Whiffenpoof Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 41807,
+            "name": "Bing Crosby",
+            "nameWithoutThePrefix": "Bing Crosby",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370196,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Brother Can You Spare A Dime",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 63444,
+            "name": "Bing Crosby & Louis Armstrong",
+            "nameWithoutThePrefix": "Bing Crosby & Louis Armstrong",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 462721,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Gone Fishin'",
+        "type": "Song"
+    }
+]

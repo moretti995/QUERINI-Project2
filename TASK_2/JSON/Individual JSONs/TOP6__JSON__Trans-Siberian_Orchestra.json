@@ -1,0 +1,1594 @@
+[
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 19710,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Mozart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 19888,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Faith Noel",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 20055,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Midnight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 20080,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Carol Of The Bells",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 20298,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Misery",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 20375,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Canon Rock",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 20451,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "A Last Illusion",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 22603,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Christmas Eve/Sarajevo - 12/24",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 52807,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "First Snow",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56982,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "The Music Box",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56983,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Promises To Keep",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56984,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "O Come All Ye Faithful O Holy Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56986,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dream Child A Christmas Dream",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56987,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Wizards In Winter",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56989,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Falling Star",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56990,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "God Rest Ye Merry Gentlemen",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56991,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "A Mad Russians Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56993,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ornament",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56994,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Silent Nutcracker",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56995,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "An Angel Came Down",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56996,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "First Noel",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56997,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Figaro",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56998,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Requiem",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57000,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Good King Joy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57001,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "O Holy Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57002,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sarajevo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 61772,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Joy Of Man's Desire",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 61773,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Marriage Of Figaro",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 63591,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Wizards Of Winter",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81292,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Christmas Eve Sarejevo 12 24",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81293,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Another Way You Can Die",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81294,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Beethovens 5th Symphony",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 81295,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sparks",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 88330,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Epiphany Part 3",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 267407,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Moment",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 267408,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Someday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 267409,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "For The Sake Of Our Brother",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 267410,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Old City Bar",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344368,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Joy Angels We Have Heard On High",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344369,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "After The Fall",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344370,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Eve Sarejevo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344371,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "This Is Who You Are",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344372,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "An Angels Share",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344373,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Eve Sarajevo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344374,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Toccata",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344375,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Old City",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344376,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Dreams Of Candlelight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344377,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Vienna",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344378,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "What Good This Deafness",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344379,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "What Is Eternal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344380,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Cannon Rock",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344381,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Appalachain Snowfall",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344382,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Ill Keep Your Secrets",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344383,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Siberian Sleigh Ride",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344384,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas In The Air",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344385,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Mad Russians Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344386,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Queens In The Winter Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344387,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Cannon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344388,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Midnight Christmas Eve",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344389,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Boughs Of Holly",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344390,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "World That She Sees",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344391,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Who Is This Child",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344392,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Fate",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344393,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Mephistopheles",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344394,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "The World That He Sees",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344395,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Wish Liszt Toy Shop Madness",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344396,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Overture",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344397,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Back To The Reason Part Ii",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344398,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Dark",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344399,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Mozart And Memories",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344400,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Dreams",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344401,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Tracers",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344402,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "The Safest Way Into Tomorrow",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344403,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Christmas Canon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344404,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Nutrocker",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344405,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Beethoven",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344406,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Nights In Blue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344407,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Lost Christmas Eve",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344408,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Mephistopheles Return",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344409,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "What Child Is This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344410,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Sarajevo 1224",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344411,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "March Of The Kings Hark The Herold Angel Sing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344412,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Eve Carol Of The Bells",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344413,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Christmas Jam",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 344414,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Ukranian Bell Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 367308,
+        "tabTypes": [
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Requiem (the Fifth)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423370,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dreams Of Candlelight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423371,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "What Is Eternal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423372,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "O Come All Ye Faithful",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423373,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dark",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423374,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Christmas Jazz",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423375,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The Ghosts Of Christmas Eve",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423376,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Who Is This Child",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 423377,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The Moment",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 473391,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Carol of the Bells (Drumless)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 478755,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Christmas Eve / Sarajevo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 497243,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Mephistopheles",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5368,
+            "name": "Trans-Siberian Orchestra",
+            "nameWithoutThePrefix": "Trans-Siberian Orchestra",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 497244,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The Night Conceives",
+        "type": "Song"
+    }
+]

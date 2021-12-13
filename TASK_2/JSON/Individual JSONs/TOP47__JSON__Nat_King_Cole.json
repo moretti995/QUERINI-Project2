@@ -1,0 +1,490 @@
+[
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 14130,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Unforgettable",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 48219,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 48220,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Nature Boy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 48221,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Orange Coloured Sky",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 48222,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Autumn Leaves",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229127,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ramblin Rose",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229128,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Stepped Out Of A Dream",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229129,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229130,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Answer Me My Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229131,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Happiest Christmas Tree",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229132,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Winter Wonderland",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229133,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Quizas Quizas Quizas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229134,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Its So Hard To Laugh",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229135,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "The Christmas Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229136,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Pretend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229137,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Was Made For Me And You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229138,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Angel Eyes",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229139,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Iilove You For Sentimental Reasons",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229140,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "When I Fall In Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229141,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "A Blossom Fell",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229142,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Orange Colored Sky",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229143,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "A Nightingale Sang In Berkley Square",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229144,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Wish You Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229145,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Too Young",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229146,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Straighten Up And Fly Right",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229147,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Let There Be Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229148,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Call It Madness But I Call It Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 229149,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Those Lazy Hazy Crazy Days Of Summer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 317258,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Avalon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 4379,
+            "name": "Nat King Cole",
+            "nameWithoutThePrefix": "Nat King Cole",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 452181,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+        "type": "Song"
+    }
+]

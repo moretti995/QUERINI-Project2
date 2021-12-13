@@ -1,0 +1,66 @@
+[
+    {
+        "artist": {
+            "id": 60436,
+            "name": "Chris Stapleton",
+            "nameWithoutThePrefix": "Chris Stapleton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 449509,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tennessee Whiskey (Intro and Solo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 60436,
+            "name": "Chris Stapleton",
+            "nameWithoutThePrefix": "Chris Stapleton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 454290,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Midnight Train to Memphis",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 60436,
+            "name": "Chris Stapleton",
+            "nameWithoutThePrefix": "Chris Stapleton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 482060,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tennessee Whiskey",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 60436,
+            "name": "Chris Stapleton",
+            "nameWithoutThePrefix": "Chris Stapleton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 493746,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "You Should Probably Leave",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 12972,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Sway",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178880,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Youre Nobody Til Somebody Loves You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178881,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Aint That A Kick In The Head",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178882,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thats Amore",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178883,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Volare",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178884,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Mambo Italiano",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178885,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Gentle On My Mind",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178886,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Rifle My Pony And Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178887,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Everybody Loves Somebody",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178888,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Little Old Wine Drinker Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178889,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "That Little Ol Wine Drinker Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178890,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Door Is Still Open",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178891,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Marshmallow World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178892,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Somewhere Is Someone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178893,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "When Youre Smiling",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178894,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Memories Are Made Of This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 178895,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Return To Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 191362,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Things",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 191363,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Will",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 191364,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Please Dont Talk About Me When Im Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 191365,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Baby Its Cold Outside",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 191366,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Things We Did Last Summer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 356228,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Let It Snow Bass",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 363021,
+        "tabTypes": [
+            "TEXT_BASS_TAB"
+        ],
+        "title": "You're Nobody Till Somebody Loves You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 363022,
+        "tabTypes": [
+            "TEXT_BASS_TAB"
+        ],
+        "title": "A Little Old Wine Drinker",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 3751,
+            "name": "Dean Martin",
+            "nameWithoutThePrefix": "Dean Martin",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 374738,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Somewhere Theres A Someone",
+        "type": "Song"
+    }
+]

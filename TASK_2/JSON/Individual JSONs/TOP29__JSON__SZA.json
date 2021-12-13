@@ -1,0 +1,194 @@
+[
+    {
+        "artist": {
+            "id": 39421,
+            "name": "Szab\u00f3 M\u00e1rk",
+            "nameWithoutThePrefix": "Szab\u00f3 M\u00e1rk",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 268422,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Feel That",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39421,
+            "name": "Szab\u00f3 M\u00e1rk",
+            "nameWithoutThePrefix": "Szab\u00f3 M\u00e1rk",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 268424,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Feel That(Ver2)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39421,
+            "name": "Szab\u00f3 M\u00e1rk",
+            "nameWithoutThePrefix": "Szab\u00f3 M\u00e1rk",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 381997,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Skicc",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 51402,
+            "name": "Szanses",
+            "nameWithoutThePrefix": "Szanses",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 390852,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Szanty",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53628,
+            "name": "Szanty",
+            "nameWithoutThePrefix": "Szanty",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 401187,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Morskie Opowie\u015bci",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53628,
+            "name": "Szanty",
+            "nameWithoutThePrefix": "Szanty",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 401189,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Morskie Opowie\u015bci Metal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 65196,
+            "name": "Szarfasz\u00fa Vizelet",
+            "nameWithoutThePrefix": "Szarfasz\u00fa Vizelet",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 470126,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Loligrind",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 45787,
+            "name": "Szarruk",
+            "nameWithoutThePrefix": "Szarruk",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 333866,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Cara Bonita",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5212,
+            "name": "Szatan",
+            "nameWithoutThePrefix": "Szatan",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18667,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Acoustic Rondo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5212,
+            "name": "Szatan",
+            "nameWithoutThePrefix": "Szatan",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 92565,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Wejscie",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5212,
+            "name": "Szatan",
+            "nameWithoutThePrefix": "Szatan",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 92631,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tempo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5212,
+            "name": "Szatan",
+            "nameWithoutThePrefix": "Szatan",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 92632,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "\u0141adny Standard",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "artist": {
+            "id": 37437,
+            "name": "Walker Hayes",
+            "nameWithoutThePrefix": "Walker Hayes",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254548,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Why Wait For Summer",
+        "type": "Song"
+    }
+]

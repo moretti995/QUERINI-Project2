@@ -1,0 +1,406 @@
+[
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171359,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Nothing Even Matters",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171360,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Big Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171361,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Paralyzed",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171362,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Cover Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171363,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Any Kind Of Guy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171364,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Blow Your Speakers",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171365,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "City Is Ours",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171366,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "If I Ruled The World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171367,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Count On You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171368,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "This Is Our Someday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171369,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Music Sounds Better With You Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171370,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Counting On You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171371,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Nothing Even Matters Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171372,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Till I Forget About You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171373,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Worldwide",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171374,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Halfway There",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 171376,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Know You Know",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190223,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Boyfriend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190224,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "No Idea",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190225,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stuck",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190226,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Invisible",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190227,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Oh Yeah",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 286128,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Big Time Rush",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370048,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Show Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 27097,
+            "name": "Big Time Rush",
+            "nameWithoutThePrefix": "Big Time Rush",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370049,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Music Sounds Better With You",
+        "type": "Song"
+    }
+]

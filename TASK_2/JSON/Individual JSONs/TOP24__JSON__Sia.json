@@ -1,0 +1,3253 @@
+[
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 53327,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Breathe Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 53328,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rockin With My Friends",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246599,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Day Too Soon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246600,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Electric Bird",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246601,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Buttons",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246602,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246603,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Go To Sleep",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246604,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Church Of Whats Happening Now",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246605,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lullaby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246606,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Soon Well Be Found",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246607,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Little Black Sandals",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246608,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im In Here",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246609,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Stop Trying",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246610,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Numb",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246611,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Broken Biscuit",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246612,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Bring Me Down",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246613,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sunday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246614,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Where I Belong",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246615,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Girl You Lost To Cocaine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246616,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hurting Me Now",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246617,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Academia",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246618,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Clap Your Hands",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246619,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Pictures",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246620,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lentil",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246621,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Bring Night",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246622,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Have Been Loved",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 277641,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Cloud",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328245,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Butterflies",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328246,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Youve Changed",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328247,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Moon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328248,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Sweet Potato",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 400697,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Chandelier (Alternative)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403932,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Cheap Thrills (Easy Kids Version L1 L2 L3)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 435756,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Elastic Heart (Arr. By Peter Gergely)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 459550,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "sia",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 472412,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Chandelier (Metal cover)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11031,
+            "name": "Sia",
+            "nameWithoutThePrefix": "Sia",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 497416,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Snowman",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 53329,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Bakit Ba",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 53330,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lakas Tama",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 79573,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Kabilang Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 79574,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Sa Isang Bote Ng Alak",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 79575,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Biyaheng Impyerno",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 79576,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lagim",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246623,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Hindi Mo Ba Alam",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246624,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Malapit Na",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246625,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Peksman",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246626,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Manibela",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246627,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Asahan Mo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246628,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Gawing Langit Ang Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246629,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Bale Wala",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246630,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Gabay",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246631,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ikaw Lamang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246632,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Kanto",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246633,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Huling Halakhak",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246634,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Akala Koy Langit",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246635,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Walang Hanggang Katapusan Dulo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246636,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Muli Bang Makikita",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246637,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Iniwan Mo Akong Nag-iisa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246638,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Inihaw",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246639,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Umayos Ka",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246640,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Aanhin",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246641,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ikaw Ba Yan",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246642,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Habang Ang Lahat",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246643,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Halika Ka Na",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246644,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ayos Lang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246645,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Tropa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246646,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Wag Mong Isipin Yon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246647,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Gawing Langit Nag Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246648,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Alaws Arep",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246649,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Yakap",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246650,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Gawin Langit Ang Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246651,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Korni",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246652,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Sige Na",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246653,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ngayong Pasko",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246654,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dyan Sa Buhay Mo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246655,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "No Problem",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246656,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Santa Klaws",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246657,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kasalukuyan",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246658,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Matalug Kana",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246659,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sisa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246660,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Hiwaga",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246661,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hiling",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246662,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Isla Puting Bato",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246663,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Karoling",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246664,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Basted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246665,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Bidyoke",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246666,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Matulog Ka Na",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246667,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Pasko Ang Araw Ng Pag-ibig",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246668,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Pagmamahal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246669,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Maligayang Pasko",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246670,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Salot",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246671,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sa Kabilang Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246672,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Inday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246673,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Tsismis",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246674,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Larawan",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246675,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Konti Na Lang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246676,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Teka Lang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246677,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ituloy Mo Lang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246678,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Plastik",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246679,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Anak Ng Puta",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246680,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sandali",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246681,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Sa Pagikot Ng Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246682,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Rekta",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246683,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Balang Araw",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246684,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kantutan Na Lang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246685,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kung",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246686,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Makabagong Panahon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246687,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Sasagipin Kita",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246688,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Noong Bata Ka Pa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246689,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hagupit",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328249,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Itigil Na Natin",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328250,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Isang Bote Ng Alak",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328251,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Laklak",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328252,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Kanta Ng Mga Baboy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328253,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Simbang",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328254,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Kasama",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328255,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Panaginip",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328256,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Don Juan",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328257,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Forbidden Game",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328258,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Kwarto",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328259,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Aso",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328260,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Pi",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328261,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Gabayanak",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328262,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Galit",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328263,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Gagawin Ko Lang Baclaran",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 421945,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Gawin Langit Ang Mundo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 421946,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tropa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 421947,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Peksman",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11032,
+            "name": "Siakol",
+            "nameWithoutThePrefix": "Siakol",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 421948,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Balang Araw",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17350,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "D.D.D",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17404,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Passion",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17419,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Risk",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17437,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Prayer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17503,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Can't Forget You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17505,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "1/3 No Jounju Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17600,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Fine Weather Day",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17612,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Solomon's Seal",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17623,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Happy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17645,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Why Not",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17668,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17678,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Glacial Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17696,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Ookina Kino Shitade",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17706,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dreamless World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17750,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Monkey Science",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17753,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Never End",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17826,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Owaranai Machi",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17837,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Imitation Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17841,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dazed And Alone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17857,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "No Jounju Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17875,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Let It Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17906,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dreams",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 17922,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Setsunasa Yorimo Tooku E",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18001,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Calling",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18102,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Life",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18108,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Destination Truth",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18119,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Don't Tell Lies",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18160,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sin",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18200,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Blow Out",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18242,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "1999",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18246,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Lovesick (You Don't Know)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18290,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Triptych",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18305,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Black",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18358,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Vampire",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18474,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Cum With Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18504,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Pride",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18519,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Kumori No Chi Hare",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 18534,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Shiritagari Syookogun",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 79432,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Tears I Cried",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246690,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "No Junjou Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 246691,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "1 3 Junjou Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 328264,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Junjou Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 394654,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Moon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 394655,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Ima Ha Tada",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 394659,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Shangri La",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 422920,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Shititagari Shoukogun",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 422921,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "13 No Junjou Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 422923,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "1 3 Junjou Na Kanjou",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434573,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "I Am I",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434575,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Get A Life",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434588,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Outsider",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434595,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Allergy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434597,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Love Is Power",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434636,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Grayish Wing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434651,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Dead Space",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434672,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "No!Marionette",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434756,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Blanco",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434757,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Jumping Junkie",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434928,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "D.Z.I",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 5089,
+            "name": "Siam Shade",
+            "nameWithoutThePrefix": "Siam Shade",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 434929,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Over The Rainbow",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 69476,
+            "name": "Siamese",
+            "nameWithoutThePrefix": "Siamese",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 489674,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rather Be Lonely (Drums Only)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 70488,
+            "name": "Siam\u00e9s",
+            "nameWithoutThePrefix": "Siam\u00e9s",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 494213,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "The Wolf",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 51522,
+            "name": "Siamis",
+            "nameWithoutThePrefix": "Siamis",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 391476,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Kucing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53423,
+            "name": "Sian",
+            "nameWithoutThePrefix": "Sian",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 400182,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Flashlight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53423,
+            "name": "Sian",
+            "nameWithoutThePrefix": "Sian",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 401915,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "\u5c0f\u5e78\u904b",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53423,
+            "name": "Sian",
+            "nameWithoutThePrefix": "Sian",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403533,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sian",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53423,
+            "name": "Sian",
+            "nameWithoutThePrefix": "Sian",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 404732,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "\u4e0d\u70ba\u8ab0\u800c\u4f5c\u7684\u6b4c",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2659,
+            "name": "Siavash Ghomeyshi",
+            "nameWithoutThePrefix": "Siavash Ghomeyshi",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 8598,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Akharin Nameh",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2659,
+            "name": "Siavash Ghomeyshi",
+            "nameWithoutThePrefix": "Siavash Ghomeyshi",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 442484,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "To Ke Baroono",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 51097,
+            "name": "Siavash",
+            "nameWithoutThePrefix": "Siavash",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 389622,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Siavash",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 63201,
+            "name": "Siavsh Ghomeyshi",
+            "nameWithoutThePrefix": "Siavsh Ghomeyshi",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 461591,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Farangis",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 56746,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Bang On The Drum All Day",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265791,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Can We Still Be Friend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265792,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "We Gotta Get You A Woman",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265793,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hello Its Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265794,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "It Wouldnt Have Made",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265795,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont You Ever Learn",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265796,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Be Nice To Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265797,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Saw The Light",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265798,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dream Goes On Forever",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265799,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Is The Answer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265800,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love Of The Common Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265801,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Can We Still Be Friends",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265802,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Tiny Demons",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265803,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Just One Victory",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265804,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "It Wouldnt Have Made Any Difference",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265805,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dust In The Wind",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 278822,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Breathless",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343799,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Mercenary",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343800,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "When The Shit Hits The Fansunset Blvd",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11522,
+            "name": "Todd Rundgren",
+            "nameWithoutThePrefix": "Todd Rundgren",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343801,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Couldnt I Just Tell You",
+        "type": "Song"
+    }
+]

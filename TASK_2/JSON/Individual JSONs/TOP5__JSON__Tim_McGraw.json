@@ -1,0 +1,1368 @@
+[
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56665,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "My Little Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56666,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Don't Take The Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 56667,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Something Like That",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265236,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "My Best Friend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265237,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Cowboy In Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265238,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Just To See You Smile",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265239,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Me And Tennessee",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265240,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Where The Green Grass Grows",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265241,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fly Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265242,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Grown Men Dont Cry",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265243,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Down On The Farm",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265244,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Please Remember Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265245,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Better Than I Used To Be",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265246,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Everywhere",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265247,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265248,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Live Like You Were Dying",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265249,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Shes My Kind Of Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265250,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Angry All The Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265251,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sing Me Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265252,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All I Want",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265253,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Walk Like A Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265254,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Drugs Or Jesus",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265255,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Old Town New",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265256,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Still",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265257,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Wouldnt Want It Any Other Way",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265258,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Forever 17",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265259,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Old Friend",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265260,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Nothin To Die For",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265261,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Forget About Us",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265262,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Love You Goodbye",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265263,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Good Girls",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265264,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Back When",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265265,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Any Countrier Than This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265266,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Im Already Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265267,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Red Ragtop",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265268,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cant Be Really Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265269,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Indian Outlaw",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265270,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kill Myself",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265271,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whiskey And You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265272,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "If I Died Today",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265273,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Not A Moment Too Soon",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265274,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Southern Voice",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265275,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Refried Dreams",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265276,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Its A Business Doing Pleasure With You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265277,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Watch The Wind Blow By",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265278,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "My Next Thirty Years",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265279,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Real Good Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265280,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ghost Town Train",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265281,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Comfort Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265282,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Last Dollar Fly Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265283,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Need You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265284,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Tiny Dancer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265285,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Its Your Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265286,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "If Youre Reading This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265287,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Aint That The Way That It Always Ends",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265288,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Tickin Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265289,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Blank Sheet Of Paper",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265290,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "When The Stars Go Blue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265291,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Let It Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265292,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Better Than I Use To Be",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265293,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Train 10",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265294,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Dont Love Me Anymore",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265295,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Open Season On My Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265296,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "How Bad Do You Want It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265297,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Bring On The Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265298,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Like It I Love It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265299,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Felt Good On My Lips",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265300,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Country Boys And Girls Getting Down On The Farm",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265301,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "She Never Lets It Go To Her Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265302,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kristofferson",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265303,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Who Are They",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265304,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thats Why God Made Mexico",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265305,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ive Got Friends That Do",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 265306,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Somebody Must Be Prayin For Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343570,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Its Your Love Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343571,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Aint That Just Like A Dream",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343572,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "You Get Used To Somebody",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343573,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Unbroken",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343574,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Over And Over Again",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343575,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "All I Want Is Life",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343576,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Truck Yeah",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343577,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Seventeen",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 343578,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "I Didnt Ask And She Didnt Say",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11501,
+            "name": "Tim Mcgraw",
+            "nameWithoutThePrefix": "Tim Mcgraw",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 369726,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "One Of Those Nights",
+        "type": "Song"
+    }
+]

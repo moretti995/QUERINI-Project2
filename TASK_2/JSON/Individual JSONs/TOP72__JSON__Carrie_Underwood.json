@@ -1,0 +1,1037 @@
+[
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 69363,
+        "tabTypes": [
+            "PLAYER",
+            "CHORDS"
+        ],
+        "title": "Cowboy Casanova",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172524,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Someday When I Stop Loving You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172525,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Angels Brought Me Here",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172526,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Before He Cheats",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172527,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Aint In Checotah Anymore",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172528,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Undo It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172529,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ill Stand By You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172530,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Mamas Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172531,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Play On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172532,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Lessons Learned",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172533,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Theres A Place For Us",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172534,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "See You Again",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172535,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "You Wont Find This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172536,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Look At Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172537,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Know You Wont",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172538,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Songs Like This",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172539,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Leave Love Alone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172540,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Some Hearts",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172541,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wheel Of The World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172542,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Jesus Take The Wheel",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172543,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Good Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172544,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All-american Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172545,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "What Can I Say",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172546,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Last Name",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172547,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Night Before Life Goes On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172548,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "So Small",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172549,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thats Where It Is",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172550,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Unapologize",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172551,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Temporary Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172552,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Wine After Whiskey",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172553,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One Way Ticket",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172554,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thank God For Hometowns",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172555,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The More Boys I Meet",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172556,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whenever You Remember",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172557,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Just Cant Live A Lie",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172558,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Do You Think About Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172559,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Praying For Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172560,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Quitter",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172561,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Forever Changed",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172562,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Just A Dream",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172563,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Two Black Cadillacs",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172564,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Crazy Dreams",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172565,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Home Sweet Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172566,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Twisted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172567,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Flat On The Floor",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172568,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sometimes You Leave Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172569,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Were Young And Beautiful",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172570,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Get Out Of This Town",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172571,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Inside Your Heaven",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172572,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Nobody Ever Told You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172573,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Good In Goodbye",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172574,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ever Ever After",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172575,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Starts With Goodbye",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172576,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cupids Got A Shotgun",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 172577,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Do You Hear What I Hear",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190336,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Told You So",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190337,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Blown Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190338,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Change",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190339,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dont Forget To Remember Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190340,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Wasted",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190341,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "This Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 190342,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Who Are You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 291209,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Spring Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 13672,
+            "name": "Carrie Underwood",
+            "nameWithoutThePrefix": "Carrie Underwood",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 467272,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Before He Cheats",
+        "type": "Song"
+    }
+]

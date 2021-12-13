@@ -1,0 +1,959 @@
+[
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 30815,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Hometown Glory",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 77365,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Rolling In The Deep",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 85828,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Someone Like You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 88270,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Chasing Pavements",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 88271,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Set Fire To The Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 89625,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Lovesong",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 90599,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Daydreamer",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163438,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Found A Boy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163439,
+        "tabTypes": [
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Best For Last",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163440,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Make You Feel My Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163441,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hiding My Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163442,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont You Remember",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163443,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Rumour Has It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163444,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "My Same",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163445,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "First Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163446,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "He Wont Go",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163447,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Turning Tables",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163448,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Not Drunk Enough",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163449,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "To Make You Feel My Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163450,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cold Shoulder",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163451,
+        "tabTypes": [
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Tired",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163452,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Melt My Heart To Stone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163453,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ill Be Waiting",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163454,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "One And Only",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163455,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Melt My Heart To Stone Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163456,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Right As Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163457,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "If It Hadnt Been For Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163458,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Thats It I Quit Im Movin On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163459,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Take It All",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163460,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Now And Then",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163461,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "21",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 163462,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Crazy For You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 280563,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Turning",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 280564,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Many Shades Of Black",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 280565,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Skyfall",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 379096,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Skyfall Tabs By Mr.Sam Ali",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 402303,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 402339,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Skyfall",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403012,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello (cover by James Bartholomew)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 403933,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello (Easy Kids Version L1 L2 L3)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 404922,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello (Metal Version)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 405410,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Adele Hello",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 412865,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello (Acoustic)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413337,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Turning Tables",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413338,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "That's It I Quit I'm Movin On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413339,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hiding My Heart",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413340,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Million Years Ago",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 413341,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Make You Feel My Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 438665,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Skyfall arranged by Kirill GG",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 443822,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello (On Bass)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 446417,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Set Fire To The Rain arrangement",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 454861,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Make You Feel My Love (Sarah Lee)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 467497,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "First Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 7008,
+            "name": "Adele",
+            "nameWithoutThePrefix": "Adele",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 486484,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rolling In The Deep (with intro)",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53582,
+            "name": "Adele (Mub)",
+            "nameWithoutThePrefix": "Adele (Mub)",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 400961,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Rolling In The Deep",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53582,
+            "name": "Adele (Mub)",
+            "nameWithoutThePrefix": "Adele (Mub)",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 447303,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 53983,
+            "name": "Adele, Arranged By Charles-Olivire Blais",
+            "nameWithoutThePrefix": "Adele, Arranged By Charles-Olivire Blais",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 402943,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 54246,
+            "name": "Adele Originally",
+            "nameWithoutThePrefix": "Adele Originally",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 404162,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hello",
+        "type": "Song"
+    }
+]

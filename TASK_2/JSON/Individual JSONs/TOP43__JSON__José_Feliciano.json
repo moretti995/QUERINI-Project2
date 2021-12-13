@@ -1,0 +1,309 @@
+[
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 7892,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Light My Fire",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 39947,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Pegao",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 72027,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "La Carcel De Sing Sing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 72028,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Forbidden Games",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205934,
+        "tabTypes": [
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Feliz Navidad",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205935,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Light My Fireeasy Guitar",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205936,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thank God",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205937,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205938,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Che Sara",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205939,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Gypsy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205940,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Listen To The Falling Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 205941,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "La Copa Rota",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310841,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Nature Boy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310842,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Chico And The Man",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310843,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Yesterday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310844,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Nono Hay Sombra Que Me Cubra",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310845,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Paso La Vida Pensando",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 310846,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "It Doesnt Matter Anyhow",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 2521,
+            "name": "Jose Feliciano",
+            "nameWithoutThePrefix": "Jose Feliciano",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 448349,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Feliz Navidad",
+        "type": "Song"
+    }
+]

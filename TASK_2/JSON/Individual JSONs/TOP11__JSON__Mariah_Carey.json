@@ -1,0 +1,834 @@
+[
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 42653,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Alwasy Be My Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 42654,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "All I Want For Christmas Is You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 42655,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "We Belong Together",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 42656,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Hero",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 42657,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "One Sweet Day",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 42658,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Bye Bye",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 59934,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Without You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 359290,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS",
+            "TEXT_BASS_TAB"
+        ],
+        "title": "Heart Breaker",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368781,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "I Give My All",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 368782,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Always Be My Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368783,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Fantasy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368784,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "One And Only",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368785,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Just Hold Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368786,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Someday",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 368787,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "My All",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 368788,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Angels Cry",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 368789,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "I Stay In Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368790,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Honey",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 368791,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Its Like That",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376347,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Music Box",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376348,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hate U",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376349,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "For The Record",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376350,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Whenever You Call",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376351,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Obsessed",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376352,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Vision Of Love",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376353,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Close My Eyes",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376354,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Christmas Baby Please Come Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376355,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Joy To The World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376356,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Thank God I Found You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376357,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Triumphant Get Em",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376358,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Circles",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376359,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Say Something",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376360,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "When I Saw You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376361,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Underneath The Stars",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376362,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Dreamlover",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376363,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Shake It Off",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376364,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Touch My Body",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376365,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "When You Believe",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376366,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Vanishing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376367,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Through The Rain",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376368,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Dont Wanna Cry",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376369,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All I Want For Christmas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376370,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Open Arms",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376371,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Ill Be There",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376372,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Oh Santa",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376373,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Clown",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376374,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Languishing",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376375,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Cant Take That Away",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376376,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Forever",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376377,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Touch My Body Acoustic",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 8552,
+            "name": "Mariah Carey",
+            "nameWithoutThePrefix": "Mariah Carey",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 412853,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hero ( Version 2 )",
+        "type": "Song"
+    }
+]

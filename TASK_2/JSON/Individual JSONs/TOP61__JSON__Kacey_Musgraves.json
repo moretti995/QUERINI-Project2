@@ -1,0 +1,210 @@
+[
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207314,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Back On The Map",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207315,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Undermine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207316,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Trailer Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207317,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Blowin Smoke",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207318,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Take Mine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207319,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Merry Go Round",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207320,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Get Outta My Yard",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207321,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "John Prine",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 207322,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Step Off",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376014,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Five Finger Discount",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376015,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "It Is What It Is",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376016,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Easy On You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 31886,
+            "name": "Kacey Musgraves",
+            "nameWithoutThePrefix": "Kacey Musgraves",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 376017,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Everybodys Got A Story",
+        "type": "Song"
+    }
+]

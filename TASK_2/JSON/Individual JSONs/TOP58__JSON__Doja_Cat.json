@@ -1,0 +1,18 @@
+[
+    {
+        "artist": {
+            "id": 70016,
+            "name": "Doja Cat",
+            "nameWithoutThePrefix": "Doja Cat",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 491783,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Say So",
+        "type": "Song"
+    }
+]

@@ -1,0 +1,607 @@
+[
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 270595,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Austin",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287018,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Hillbilly Bone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287019,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Some Beach",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287020,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Nobody But Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287021,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287022,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ol Red",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287023,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Over",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287024,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Who Are You When Im Not Looking",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287025,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "The More I Drink",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287026,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Dont Make Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287027,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Old Red",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287028,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "All About Tonight",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 287029,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Playboys Of The Southwestern World",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 287030,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB",
+            "CHORDS"
+        ],
+        "title": "Ill Just Hold On",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370597,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Home Sweet Home",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370598,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "God Gave Me You",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370599,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Playboys Of The Southwestern World Hey Romeo",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370600,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Honey Bee",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370601,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Redneck Girl",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370602,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "She Wouldnt Be Gone",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370603,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Drink On It",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370604,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Red River Blue",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370605,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Kiss My Country Ass",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370606,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "What I Wouldnt Give",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370607,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Green",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370608,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Here I Am",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370609,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Country Strong",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370610,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Goodbye Time",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370611,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Asphalt Cowboy",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370612,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Last Country Song",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370613,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "All Over Me",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370614,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "The Baby",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370615,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "I Dont Care",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370616,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Hay",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 370617,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Sunny In Seattle",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 401442,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Sangria",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 39867,
+            "name": "Blake Shelton",
+            "nameWithoutThePrefix": "Blake Shelton",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 462018,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Home",
+        "type": "Song"
+    }
+]

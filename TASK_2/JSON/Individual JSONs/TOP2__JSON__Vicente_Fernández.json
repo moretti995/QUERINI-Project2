@@ -1,0 +1,291 @@
+[
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57713,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Estos Celos",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57714,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "El Andariego",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 57715,
+        "tabTypes": [
+            "PLAYER",
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Para Siempre",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254002,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Amor Eterno",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254003,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Las Llaves De Mi Alma",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254004,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "La Ley Del Monte",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254005,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "El Rey",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254006,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Fuego En La Sangre",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254007,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Volver Volver",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254008,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Que De Raro Tiene",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254009,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "La Ley De Monte",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254010,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Mujeres Divinas",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254011,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "Por Tu Maldito Amor",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": true,
+        "id": 254012,
+        "tabTypes": [
+            "CHORDS"
+        ],
+        "title": "La Mentira",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 339124,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Adorado Tormento",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 339125,
+        "tabTypes": [
+            "TEXT_GUITAR_TAB"
+        ],
+        "title": "Me Voy A Quitar De En Medio",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 437204,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Hermoso cari\u00f1o",
+        "type": "Song"
+    },
+    {
+        "artist": {
+            "id": 11663,
+            "name": "Vicente Fernandez",
+            "nameWithoutThePrefix": "Vicente Fernandez",
+            "type": "Artist",
+            "useThePrefix": false
+        },
+        "chordsPresent": false,
+        "id": 481574,
+        "tabTypes": [
+            "PLAYER"
+        ],
+        "title": "Las Botas de Charro",
+        "type": "Song"
+    }
+]
